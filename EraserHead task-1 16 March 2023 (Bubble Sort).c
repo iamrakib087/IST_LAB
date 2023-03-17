@@ -1,7 +1,7 @@
 #include <stdio.h>
     int main (){
     int r,t,aux,number[10];
-    printf("\nBubble Sort for 10 numbers in decending order:\n");
+    printf("\nBubble Sort for 10 numbers in descending order:\n");
 
         printf("\nEnter the numbers:\n");
         for (r=0; r<10; r++){
